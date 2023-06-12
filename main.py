@@ -11,6 +11,10 @@ lang = 'en'
 
 openai.api_key = api_key
 
+
+guy = ""
+
+
 # Start an infinite loop
 while True:
     # Function to get audio input
