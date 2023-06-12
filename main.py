@@ -6,7 +6,7 @@ from gtts import gTTS
 import openai
 import speech_recognition as sr
 
-api_key = "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"
+api_key = "my_api_key"
 lang = 'en'
 
 openai.api_key = api_key
